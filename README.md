@@ -8,8 +8,10 @@
 
 Запуск
 1. Установите зависимости (curl и jq)
+    
     sudo apt update && sudo apt install curl jq cron -y
 2. Настройте скрипт
+    
     Положите weather.sh в папку /home/taskuser/  и сделайте его исполняемым:  
     chmod +x /home/taskuser/weather.sh
     Убедитесь, что у скрипта есть права на запись в папку /var/www/html/.
