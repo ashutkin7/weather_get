@@ -23,4 +23,5 @@
     * * * * * /home/taskuser/weather.sh > /dev/null 2>&1
 
 4. Пример результата
+
 ![Пример результата](result.png)
